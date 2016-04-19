@@ -1,0 +1,48 @@
+{
+    "name": "IoDigital/GooglePubSub",
+    "type": "library",
+    "description": "Google Pub Sub Package",
+    "keywords": [
+        "Io Digital",
+        "Google",
+        "Google Pub Sub"
+    ],
+    "homepage": "https://github.com/IoDigital/GooglePubSub",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ian van der Merwe",
+            "email": "ian@io.co.za",
+            "homepage": "http://io.co.za",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "illuminate/support": "~5.1",
+        "php" : "~5.5|~7.0",
+        "google/apiclient": "^2.0.0@RC"
+    },
+    "require-dev": {
+        "scrutinizer/ocular": "~1.1",
+        "squizlabs/php_codesniffer": "~2.3",
+        "phpunit/phpunit": ">=4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "IoDigital\\GooglePubSub\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "IoDigital\\GooglePubSub\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "phpunit"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
