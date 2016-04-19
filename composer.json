@@ -1,5 +1,5 @@
 {
-    "name": "IoDigital/GooglePubSub",
+    "name": "io-digital/google-pub-sub",
     "type": "library",
     "description": "Google Pub Sub Package",
     "keywords": [

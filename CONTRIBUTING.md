@@ -2,7 +2,7 @@
 
 Contributions are **welcome** and will be fully **credited**.
 
-We accept contributions via Pull Requests on [Github](https://github.com/:vendor/:package_name).
+We accept contributions via Pull Requests on [BitBucket](https://bitbucket.org/io-digital/google-pub-sub).
 
 
 ## Pull Requests
