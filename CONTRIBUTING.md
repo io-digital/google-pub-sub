@@ -2,7 +2,7 @@
 
 Contributions are **welcome** and will be fully **credited**.
 
-We accept contributions via Pull Requests on [BitBucket](https://bitbucket.org/io-digital/google-pub-sub).
+We accept contributions via Pull Requests on [GitHub](https://github.com/io-digital/google-pub-sub).
 
 
 ## Pull Requests
@@ -24,7 +24,7 @@ We accept contributions via Pull Requests on [BitBucket](https://bitbucket.org/i
 
 ## Running Tests
 
-``` bash
+```bash
 $ composer test
 ```
 
