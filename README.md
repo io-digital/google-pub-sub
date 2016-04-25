@@ -36,11 +36,11 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) and [CONDUCT](CONDUCT.md) for details
 
 ## Security
 
-If you discover any security related issues, please email ian@io.co.za instead of using the issue tracker.
+If you discover any security related issues, please reach us via [email](mailto:devops@io.co.za) instead of using the issue tracker.
 
 ## Credits
 
-- [Ian van der Merwe][https://github.com/ianvdmerwe]
+- [Ian van der Merwe](https://github.com/ianvdmerwe)
 - [All Contributors][link-contributors]
 
 ## License
